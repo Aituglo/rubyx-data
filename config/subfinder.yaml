@@ -1,0 +1,18 @@
+binaryedge:
+  - 
+  - 
+censys:
+  - 
+certspotter: []
+passivetotal:
+  - sample-email@user.com:sample_password
+securitytrails: []
+shodan:
+  - 
+github:
+  - 
+  - 
+zoomeye:
+  - zoomeye_username:zoomeye_password
+quake:
+  - 
